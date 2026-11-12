@@ -64,16 +64,12 @@ Atualmente curso pós-graduação em **Engenharia de Software com IA Aplicada** 
 
 <div align="center">
   <br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gmaciel10&bg_color=0d1117&color=8b949e&line=007ACC&point=ffffff&area=true&hide_border=true" alt="Gráfico de Commits Animado" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmaciel10&theme=github_dark" alt="Gráfico de Contribuições" />
 </div>
 
 <div align="center">
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmaciel10/gmaciel10/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmaciel10/gmaciel10/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/gmaciel10/gmaciel10/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/gmaciel10/gmaciel10/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=gmaciel10&label=Visualiza%C3%A7%C3%B5es&color=007ACC&style=flat-square" alt="Visitors count" />
 </div>
