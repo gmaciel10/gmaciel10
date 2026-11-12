@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+Maciel+%F0%9F%91%8B" alt="Typing SVG" />
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/guilherme-costa-maciel-823417190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:guilherme.maciel.9889@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/guilherme-maciel-823417190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/gu1lh3rm3.m4c13l/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </p>
 </div>
