@@ -38,13 +38,25 @@ Atualmente curso pós-graduação em **Engenharia de Software com IA Aplicada** 
   <img src="https://img.shields.io/badge/React_Native-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
   <br/><br/>
+
+  <strong>Inteligência Artificial & Agentes</strong>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1E1E1E?style=for-the-badge&logo=langchain&logoColor=38B2AC"/>
+  <img src="https://img.shields.io/badge/LangSmith-1E1E1E?style=for-the-badge&logo=langchain&logoColor=F6AD55"/>
+  <img src="https://img.shields.io/badge/Ollama-1E1E1E?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-1E1E1E?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
+  <img src="https://img.shields.io/badge/TensorFlow-1E1E1E?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <br/><br/>
   
-  <strong>DevOps, Automação & IA</strong>
+  <strong>DevOps, Infraestrutura, Redes & Automação</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Proxmox-1E1E1E?style=for-the-badge&logo=proxmox&logoColor=E57000"/>
+  <img src="https://img.shields.io/badge/Nutanix-1E1E1E?style=for-the-badge&logo=nutanix&logoColor=024DA1"/>
+  <img src="https://img.shields.io/badge/FortiGate-1E1E1E?style=for-the-badge&logo=fortinet&logoColor=EE3124"/>
+  <img src="https://img.shields.io/badge/MikroTik-1E1E1E?style=for-the-badge&logo=mikrotik&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-1E1E1E?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
-  <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-1E1E1E?style=for-the-badge&logo=ollama&logoColor=white"/>
 
 </div>
 
