@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+Maciel+%F0%9F%91%8B;Coordenador+de+Desenvolvimento+e+Integra%C3%A7%C3%B5es" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+Maciel+%F0%9F%91%8B" alt="Typing SVG" />
   
   <p align="center">
     <a href="https://www.linkedin.com/in/guilherme-costa-maciel-823417190/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
