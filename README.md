@@ -10,34 +10,38 @@
 
 <br/>
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Atuo diretamente na **Liderança Técnica e definição de arquitetura de solução**. Coordeno times de desenvolvimento focados em entregar soluções escaláveis, integrando ecossistemas complexos (ERPs) e projetando produtos orientados a dados.
+Trabalho com desenvolvimento de software focado em arquitetura de soluções, integrações de sistemas e liderança de equipes. Hoje coordeno o time de desenvolvimento e integrações na Alcans Telecom, onde desenhamos e mantemos microsserviços, automações e integrações de grande porte com ERPs.
 
-*   🚀 **O que faço:** Lidero o desenvolvimento na Alcans Telecom, unindo metodologias ágeis (Scrum) e **Spec Driven Development (SDD)** para garantir excelência nas entregas.
-*   🏗️ **Arquitetura:** Defensor ativo de **Clean Architecture**, princípios **SOLID**, microsserviços e padrões de projeto robustos.
-*   🧠 **Pesquisa & IA:** Pós-graduando em Engenharia de Software com IA Aplicada (UNIPDS). Explorando o poder de ecossistemas multi-agentes (**LangChain, LangGraph**) e LLMs locais (**Ollama, RAG**).
-*   🎓 **Background:** Especialista formado pelo programa JavaScript Expert (EW Academy) e Ignite.
+No dia a dia, gosto de manter a engenharia simples, testável e bem documentada. Utilizo **Clean Architecture** e **SOLID** como base para organizar o código, e venho aplicando **Spec Driven Development (SDD)** junto com a equipe para dar mais previsibilidade e contexto ao desenvolvimento assistido por IA.
+
+Atualmente curso pós-graduação em **Engenharia de Software com IA Aplicada** (UNIPDS) e tenho dedicado boa parte dos meus estudos à construção de fluxos com múltiplos agentes (**LangChain / LangGraph**) e execução de LLMs locais com **Ollama** e **RAG**. Também sou formado pelos programas **JavaScript Expert** (EW Academy) e **Ignite** (Rocketseat).
 
 <br/>
 
-## ⚡ Arsenal Tecnológico
+## Tecnologias e Ferramentas
 
 <div align="center">
   
-  ### Backend & Arquitetura
+  **Backend & Arquitetura**
+  <br/>
   <img src="https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
   <img src="https://img.shields.io/badge/NestJS-1E1E1E?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
   <img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <br/><br/>
   
-  ### Frontend & Mobile
+  **Frontend & Mobile**
+  <br/>
   <img src="https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+  <br/><br/>
   
-  ### DevOps, RPA & IA
+  **DevOps, Automação & IA**
+  <br/>
   <img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Selenium-1E1E1E?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
   <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=chainlink&logoColor=white"/>
@@ -47,16 +51,16 @@ Atuo diretamente na **Liderança Técnica e definição de arquitetura de soluç
 
 <br/>
 
-## 📊 Analytics & Atividade
+## Atividade e Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmaciel10&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=8b949e" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmaciel10&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=007ACC&text_color=8b949e" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gmaciel10&theme=github_dark" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gmaciel10&theme=github_dark" />
 </div>
 
 <div align="center">
   <br/>
   <img src="https://raw.githubusercontent.com/gmaciel10/gmaciel10/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
-  <br/>
-  <img src="https://profile-counter.glitch.me/gmaciel10/count.svg" alt="Visitors count" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=gmaciel10&label=Visualiza%C3%A7%C3%B5es&color=007ACC&style=flat-square" alt="Visitors count" />
 </div>
