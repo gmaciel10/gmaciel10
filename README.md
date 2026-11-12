@@ -23,12 +23,13 @@ Atualmente curso pós-graduação em **Engenharia de Software com IA Aplicada** 
 
 <div align="center">
   
-  <strong>Backend & Arquitetura</strong>
+  <strong>Backend, Arquitetura & Automação (RPA)</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
   <img src="https://img.shields.io/badge/NestJS-1E1E1E?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
   <img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/Selenium-1E1E1E?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
   <br/><br/>
   
   <strong>Frontend & Mobile</strong>
@@ -49,15 +50,13 @@ Atualmente curso pós-graduação em **Engenharia de Software com IA Aplicada** 
   <img src="https://img.shields.io/badge/TensorFlow-1E1E1E?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
   <br/><br/>
   
-  <strong>DevOps, Infraestrutura, Redes & Automação</strong>
+  <strong>DevOps, Infraestrutura & Redes</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Proxmox-1E1E1E?style=for-the-badge&logo=proxmox&logoColor=E57000"/>
   <img src="https://img.shields.io/badge/Nutanix-1E1E1E?style=for-the-badge&logo=nutanix&logoColor=024DA1"/>
   <img src="https://img.shields.io/badge/FortiGate-1E1E1E?style=for-the-badge&logo=fortinet&logoColor=EE3124"/>
   <img src="https://img.shields.io/badge/MikroTik-1E1E1E?style=for-the-badge&logo=mikrotik&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-1E1E1E?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
-
 </div>
 
 <br/>
