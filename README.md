@@ -23,13 +23,18 @@ Atualmente curso pós-graduação em **Engenharia de Software com IA Aplicada** 
 
 <div align="center">
   
-  <strong>Backend, Arquitetura & Automação (RPA)</strong>
+  <strong>Backend, Bancos de Dados & Automação</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
   <img src="https://img.shields.io/badge/NestJS-1E1E1E?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/BullMQ_%2F_Bull_Board-1E1E1E?style=for-the-badge&logo=redis&logoColor=FF4438"/>
   <img src="https://img.shields.io/badge/Selenium-1E1E1E?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/MySQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/Firebird-1E1E1E?style=for-the-badge&logo=firebird&logoColor=F40909"/>
   <br/><br/>
   
   <strong>Frontend & Mobile</strong>
@@ -57,6 +62,7 @@ Atualmente curso pós-graduação em **Engenharia de Software com IA Aplicada** 
   <img src="https://img.shields.io/badge/Nutanix-1E1E1E?style=for-the-badge&logo=nutanix&logoColor=024DA1"/>
   <img src="https://img.shields.io/badge/FortiGate-1E1E1E?style=for-the-badge&logo=fortinet&logoColor=EE3124"/>
   <img src="https://img.shields.io/badge/MikroTik-1E1E1E?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+
 </div>
 
 <br/>
