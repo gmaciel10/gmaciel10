@@ -23,24 +23,24 @@ Atualmente curso pós-graduação em **Engenharia de Software com IA Aplicada** 
 
 <div align="center">
   
-  **Backend & Arquitetura**
-  <br/>
+  <strong>Backend & Arquitetura</strong>
+  <br/><br/>
   <img src="https://img.shields.io/badge/TypeScript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
   <img src="https://img.shields.io/badge/NestJS-1E1E1E?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
   <img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
   <br/><br/>
   
-  **Frontend & Mobile**
-  <br/>
+  <strong>Frontend & Mobile</strong>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React_Native-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind-1E1E1E?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
   <br/><br/>
   
-  **DevOps, Automação & IA**
-  <br/>
+  <strong>DevOps, Automação & IA</strong>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Selenium-1E1E1E?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
   <img src="https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=chainlink&logoColor=white"/>
@@ -59,7 +59,21 @@ Atualmente curso pós-graduação em **Engenharia de Software com IA Aplicada** 
 
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/gmaciel10/gmaciel10/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=gmaciel10&theme=dark&hide_border=true&background=00000000&ring=007ACC&fire=007ACC&currStreakLabel=007ACC&locale=pt_BR" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <br/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gmaciel10&bg_color=0d1117&color=8b949e&line=007ACC&point=ffffff&area=true&hide_border=true" alt="Gráfico de Commits Animado" />
+</div>
+
+<div align="center">
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmaciel10/gmaciel10/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmaciel10/gmaciel10/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/gmaciel10/gmaciel10/output/github-contribution-grid-snake.svg" />
+  </picture>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=gmaciel10&label=Visualiza%C3%A7%C3%B5es&color=007ACC&style=flat-square" alt="Visitors count" />
 </div>
