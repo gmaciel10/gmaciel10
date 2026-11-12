@@ -64,12 +64,12 @@ Atualmente curso pós-graduação em **Engenharia de Software com IA Aplicada** 
 
 <div align="center">
   <br/>
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmaciel10&theme=github_dark" alt="Gráfico de Contribuições" />
+  <a href="https://github.com/gmaciel10">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gmaciel10&theme=github-compact&bg_color=00000000&color=8b949e&line=007ACC&point=ffffff&area=true&area_color=007ACC&hide_border=true&custom_title=Hist%C3%B3rico%20de%20Contribui%C3%A7%C3%B5es%20Recentes" alt="Gráfico de Commits" />
+  </a>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/gmaciel10/gmaciel10/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
-  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=gmaciel10&label=Visualiza%C3%A7%C3%B5es&color=007ACC&style=flat-square" alt="Visitors count" />
 </div>
